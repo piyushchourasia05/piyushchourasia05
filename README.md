@@ -23,7 +23,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PowerBI](https://img.shields.io/badge/-powerbi-05122A?style=flat&logo=PowerBi)&nbsp;
+![PowerBI](https://img.shields.io/badge/-Powerbi-05122A?style=flat&logo=PowerBi)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 <br />
 <h2 style="color: #44AEFB">📊 Statistics</h2>
